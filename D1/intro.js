@@ -1,0 +1,1 @@
+console.log('This is externally connected script file');
